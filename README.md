@@ -40,13 +40,22 @@ Team rankings and total scores from stage 1 and stage 2
 
 ### Arena Mappig Slots
 
+On 17.04.2024
+
+| Time  | Team Name |
+| ----- | --------- |
+| 13:00 | b-it bots |
+| 13:15 | Nimbro    |
+| 13:30 | SCC       |
+| 13:45 | Tobi      |
+
 ### Arena Map
 
 ![](maps/arena.png)
 
 ### Objects
 
-[object- ist](objects/objects.md)
+[object list](objects/objects.md)
 
 ### Locations
 
