@@ -42,9 +42,15 @@ Team rankings and total scores from stage 1 and stage 2
 
 ### Arena Map
 
+![](maps/arena.png)
+
 ### Objects
 
-[object-list](objects/objects.md)
+[object- ist](objects/objects.md)
+
+### Locations
+
+[location list](maps/location_names.md)
 
 
 ## Robot Inspection and Poster Session
