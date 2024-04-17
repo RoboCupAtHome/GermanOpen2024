@@ -165,6 +165,16 @@ On 18.04.2024 17:00
 ![](maps/stage_one/map_gpsr.png)
 
 ### Serve Breakfast
+
+On 18.04.2024 10:30
+
+| Ordering  | Team Name |
+| ----- | --------- |
+| 1 | Nimbro |
+| 2 | Tobi    |
+| 3 | b-it bots       |
+| 4 | SCC      |
+
 ![](maps/stage_one/map_serve_breakfast.png)
 
 
