@@ -92,12 +92,12 @@ checkout [location list](maps/location_names.md)
 
 On 17.04.2024 18:00 (Robot Inspection)
 
-| Ordering  | Team Name |
-| ----- | --------- |
-| 1 | b-it bots |
-| 2 | Nimbro    |
-| 3 | SCC       |
-| 4 | Tobi      |
+| Ordering  | Team Name | Poster |
+| ----- | --------- | --------- |
+| 1 | b-it bots | 32 |
+| 2 | Nimbro    | 38 |
+| 3 | SCC       | 40 |
+| 4 | Tobi      | 40 |
 
 ![](maps/map_robot_inspection.png)
 
