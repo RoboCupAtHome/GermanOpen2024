@@ -81,11 +81,11 @@ On 17.04.2024
 
 ### Objects
 
-[object list](objects/objects.md)
+checkout the [object list](objects/objects.md)
 
 ### Locations
 
-[location list](maps/location_names.md)
+checkout [location list](maps/location_names.md)
 
 
 ## Robot Inspection and Poster Session
@@ -135,8 +135,8 @@ On 18.04.2024 13:00
 
 ![](maps/stage_one/map_receptionist.png)
 
-Announce host's favorite drink
-Announce host's name
+favorite drink is coke
+host name is luca
 
 ### Carry my Luggage
 
