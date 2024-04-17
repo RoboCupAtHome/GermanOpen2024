@@ -10,10 +10,10 @@
 | 7 | desk chair | |
 | 8 | sink |
 | 9 | fridge (p) | food |
-| 10 | dishwasher (p) | cleaning supplies |
-| 11 | kitchen table (p) | dishes |
+| 10 | dishwasher (p) | dishes |
+| 11 | kitchen table (p) |
 | 12 | trash bin |
-| 13 | bookshelf (p) |
+| 13 | bookshelf (p) | cleaning supplies |
 | 14 | coffee table (p) | fruits |
 | 15 | sofa |
 | 16 | bar (p) | drinks |
