@@ -89,33 +89,84 @@ On 17.04.2024
 
 
 ## Robot Inspection and Poster Session
+
+On 17.04.2024 18:00 (Robot Inspection)
+
+| Ordering  | Team Name |
+| ----- | --------- |
+| 1 | b-it bots |
+| 2 | Nimbro    |
+| 3 | SCC       |
+| 4 | Tobi      |
+
 ![](maps/map_robot_inspection.png)
 
 Announce location for Poster.
 
 ## Stage 1
 
-### Receptionist
-![](maps/stage_one/map_receptionist.png)
-
-Announce host's favorite drink
-Announce host's name
-
 ### Storing Groceries
+
+On 18.04.2024 10:30
+
+| Ordering  | Team Name |
+| ----- | --------- |
+| 1 | Nimbro |
+| 2 | SCC    |
+| 3 | Tobi       |
+| 4 | b-it bots      |
+
 ![](maps/stage_one/map_storing_groceries.png)
 
 Announce which table will be used
 
 Announce what will be used as cabinet
 
+### Receptionist
+
+On 18.04.2024 13:00
+
+| Ordering  | Team Name |
+| ----- | --------- |
+| 1 | b-it bots |
+| 2 | Nimbro    |
+| 3 | SCC       |
+| 4 | Tobi      |
+
+![](maps/stage_one/map_receptionist.png)
+
+Announce host's favorite drink
+Announce host's name
+
 ### Carry my Luggage
+
+On 18.04.2024 15:00
+
+| Ordering  | Team Name |
+| ----- | --------- |
+| 1 | Tobi |
+| 2 | SCC    |
+| 3 | b-it bots       |
+| 4 | Nimbro      |
+
 ![](maps/stage_one/map_carry_my_luggage.png)
+
+### GPSR
+
+On 18.04.2024 17:00
+
+| Ordering  | Team Name |
+| ----- | --------- |
+| 1 | SCC |
+| 2 | b-it bots    |
+| 3 | Nimbro       |
+| 4 | Tobi      |
+
+![](maps/stage_one/map_gpsr.png)
 
 ### Serve Breakfast
 ![](maps/stage_one/map_serve_breakfast.png)
 
-### GPSR
-![](maps/stage_one/map_gpsr.png)
 
 ## Stage 2
 
