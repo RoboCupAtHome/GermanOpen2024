@@ -32,9 +32,35 @@ Team rankings and total scores from stage 1 and stage 2
 
 ## Schedule
 
-|     | Wed April 17 | Thu April 18 | Fri April 19 | Sat April 20 | 
-|-----|--------------|--------------|--------------|--------------|
-| | | | | |
+|       | Wed April 17              | Thu April 18        | Fri April 19        | Sat April 20           | 
+|-------|---------------------------|---------------------|---------------------|------------------------|
+| 08:00 |                           |                     |                     |                        |
+| 08:30 |                           |                     |                     |                        |
+| 09:00 |                           |                     | Opening Ceremony    |                        |
+| 09:30 |                           |                     |                     | Stickler for the Rules |
+| 10:00 |                           |                     | Serve Breakfast     | Stickler for the Rules |
+| 10:30 |                           | Storing Groceries   | Serve Breakfast     | Stickler for the Rules |
+| 11:00 |                           | Storing Groceries   | Serve Breakfast     |                        |
+| 11:30 |                           | Storing Groceries   |                     |                        |
+| 12:00 |                           |                     |                     | FINALS                 |
+| 12:30 |                           |                     | EGPSR               |                        |
+| 13:00 | Mapping                   | Receptionist        | EGPSR               |                        |
+| 13:30 | Mapping                   | Receptionist        | EGPSR               |                        |
+| 14:00 |                           | Receptionist        |                     |                        |
+| 14:30 |                           |                     | Clean the Table     |                        |
+| 15:00 |                           | Carry my Luggage    | Clean the Table     |                        |
+| 15:30 |                           | Carry my Luggage    | Clean the Table     |                        |
+| 16:00 | Team Leader Meeting       | Carry my Luggage    |                     |                        |
+| 16:30 |                           |                     |                     |                        |
+| 17:00 |                           | GPSR                | Restaurant          |                        |
+| 17:30 |                           | GPSR                | Restaurant          |                        |
+| 18:00 | Robot Inspection          | GPSR                | Restaurant          |                        |
+| 18:30 | Welcome Reception (18:45) |                     |                     |                        |
+| 19:00 |                           |                     |                     |                        |
+| 19:30 | Poster Session            | Team Leader Meeting | Team Leader Meeting |                        |
+| 20:00 | Poster Reception          |                     |                     |                        |
+| 21:00 |                           |                     |                     |                        |
+| 22:00 |                           |                     |                     |                        |
 
 ## Arena
 
