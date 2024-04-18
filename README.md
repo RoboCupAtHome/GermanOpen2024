@@ -173,27 +173,63 @@ On 18.04.2024 17:00
 
 ### Serve Breakfast
 
-On 18.04.2024 10:30
+On 19.04.2024 10:30
 
 | Ordering  | Team Name |
 | ----- | --------- |
 | 1 | Nimbro |
 | 2 | Tobi    |
-| 3 | b-it bots       |
-| 4 | SCC      |
+| 3 | SCC       |
 
 ![](maps/stage_one/map_serve_breakfast.png)
 
 
 ## Stage 2
 
+### E-GPSR
+
+On 19.04.2024 12:30
+
+| Ordering  | Team Name |
+| ----- | --------- |
+| 1 | SCC |
+| 2 | Nimbro    |
+| 3 | Tobi      |
+
 ### Clean the Table
+
+On 19.04.2024 14:30
+
+| Ordering  | Team Name |
+| ----- | --------- |
+| 1 | Nimbro |
+| 2 | SCC    |
+| 3 | Tobi      |
+
 ![](maps/stage_two/map_clean_the_table.png)
 
-### Stickler for the Rules
-![](maps/stage_two/map_stickler_for_the_rules.png)
-
 ### Restaurant
+
+On 19.04.2024 17:00
+
+| Ordering  | Team Name |
+| ----- | --------- |
+| 1 | Tobi |
+| 2 | Nimbro  |
+| 3 | SCC |
+
 ![](maps/stage_two/map_restaurant_meeting_point.png)
+
+### Stickler for the Rules
+
+On 20.04.2024 09:30
+
+| Ordering  | Team Name |
+| ----- | --------- |
+| 1 | Tobi |
+| 2 | Nimbro  |
+| 3 | SCC |
+
+![](maps/stage_two/map_stickler_for_the_rules.png)
 
 
