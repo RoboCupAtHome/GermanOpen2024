@@ -25,12 +25,12 @@
 
 Team rankings and total scores from stage 1 and stage 2
 
-| (current) rank   | Team Name   | Poster | Storing G. | Recept. | GPSR | Serve B. | Total scores (stage 1) |
-| ---------------- | ----------- | ------ | ---------- | ------- | ---- | -------- | ---------------------- |
-|  4 | b-it bots                 | 32     | 0          | 0 | | | 32 |
-| 1 | Nimbro                     | 38     | 330        | 788 | | | 1156 |
-| 3 | SCC                        | 40     | 15         | 0 | | | 55 |
-| 2 | ToBi                       | 40     | 80         | 325 | | | 445 |
+| (current) rank   | Team Name   | Poster | Storing G. | Recept. | Carry L. | GPSR | Serve B. | Total scores (stage 1) |
+| ---------------- | ----------- | ------ | ---------- | ------- | -------- | --- | ----- | ---------------------- |
+|  4 | b-it bots                 | 32     | 0          | 0       |          | | | 32 |
+| 1 | Nimbro                     | 38     | 330        | 788     | 115      | | | 1271 |
+| 3 | SCC                        | 40     | 15         | 0       | 300      | | | 355 |
+| 2 | ToBi                       | 40     | 80         | 325     | 0        | | | 445 |
 
 
 ## Schedule
@@ -149,12 +149,12 @@ host name is luca
 
 On 18.04.2024 15:00
 
-| Ordering  | Team Name |
-| ----- | --------- |
-| 1 | Tobi |
-| 2 | SCC    |
-| 3 | b-it bots       |
-| 4 | Nimbro      |
+| Ordering  | Team Name | Score |
+| ----- | --------- | ---- |
+| 1 | Tobi | 0 |
+| 2 | SCC    | 300 |
+| 3 | b-it bots  | 0     |
+| 4 | Nimbro      | 115 |
 
 ![](maps/stage_one/map_carry_my_luggage.png)
 
