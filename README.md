@@ -27,10 +27,10 @@ Team rankings and total scores from stage 1 and stage 2
 
 | (current) rank   | Team Name   | Poster | Storing G. | Recept. | GPSR | Serve B. | Total scores (stage 1) |
 | ---------------- | ----------- | ------ | ---------- | ------- | ---- | -------- | ---------------------- |
-|  4 | b-it bots | 32 | 0 | | | | 32 |
-| 1 | Nimbro    | 38  | 330 | | | | 368 |
-| 3 | SCC       | 40  | 15  | | | | 55 |
-| 2 | ToBi      | 40  | 80  | | | | 120 |
+|  4 | b-it bots                 | 32     | 0          | 0 | | | 32 |
+| 1 | Nimbro                     | 38     | 330        | 788 | | | 1156 |
+| 3 | SCC                        | 40     | 15         | 0 | | | 55 |
+| 2 | ToBi                       | 40     | 80         | 325 | | | 445 |
 
 
 ## Schedule
@@ -129,12 +129,12 @@ Announce what will be used as cabinet
 
 On 18.04.2024 13:00
 
-| Ordering  | Team Name |
-| ----- | --------- |
-| 1 | b-it bots |
-| 2 | Nimbro    |
-| 3 | SCC       |
-| 4 | Tobi      |
+| Ordering  | Team Name | Score (without social performance) |
+| ----- | --------- | ----------------------------------- |
+| 1 | b-it bots | 0 |
+| 2 | Nimbro    | 788 |
+| 3 | SCC       | 0 |
+| 4 | Tobi      | 325 |
 
 ![](maps/stage_one/map_receptionist.png)
 
