@@ -82,6 +82,10 @@ On 17.04.2024
 
 ![](maps/arena.png)
 
+### Arena WLAN
+
+AtHome, password: r5sdigj389zioh
+
 ### Objects
 
 checkout the [object list](objects/objects.md)
