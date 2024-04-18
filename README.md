@@ -109,12 +109,12 @@ Announce location for Poster.
 
 On 18.04.2024 10:30
 
-| Ordering  | Team Name |
-| ----- | --------- |
-| 1 | Nimbro |
-| 2 | SCC    |
-| 3 | Tobi       |
-| 4 | b-it bots      |
+| Ordering  | Team Name | Score |
+| ----- | --------- | ------ |
+| 1 | Nimbro | 330 |
+| 2 | SCC    | 15 |
+| 3 | Tobi       | 80 |
+| 4 | b-it bots      | 0 |
 
 ![](maps/stage_one/map_storing_groceries.png)
 
