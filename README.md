@@ -19,7 +19,7 @@
 - [Stage 2](#stage-2)
     + [Clean the Table](#clean-the-table)
     + [Stickler for the Rules](#stickler-for-the-rules)
-    + [EGPSR](#egpsr)
+    + [Restaurant](#restaurant)
 
 ## Scores
 
@@ -186,7 +186,7 @@ On 18.04.2024 10:30
 ### Stickler for the Rules
 ![](maps/stage_two/map_stickler_for_the_rules.png)
 
-### EGPSR
-![](maps/stage_two/map_egpsr.png)
+### Restaurant
+![](maps/stage_two/map_restaurant_meeting_point.png)
 
 
