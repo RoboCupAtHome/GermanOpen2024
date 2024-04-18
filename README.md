@@ -84,7 +84,7 @@ On 17.04.2024
 
 ### Arena WLAN
 
-AtHome, password: r5sdigj389zioh
+athome, password: r5sdigj389zioh
 
 ### Objects
 
