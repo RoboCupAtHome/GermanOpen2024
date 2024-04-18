@@ -27,10 +27,10 @@ Team rankings and total scores from stage 1 and stage 2
 
 | (current) rank   | Team Name   | Poster | Storing G. | Recept. | GPSR | Serve B. | Total scores (stage 1) |
 | ---------------- | ----------- | ------ | ---------- | ------- | ---- | -------- | ---------------------- |
-|  4 | b-it bots | 32 | 0 | | | | |
-| 1 | Nimbro    | 38  | 330 | | | | |
-| 3 | SCC       | 40  | 15  | | | | |
-| 2 | ToBi      | 40  | 80  | | | | |
+|  4 | b-it bots | 32 | 0 | | | | 32 |
+| 1 | Nimbro    | 38  | 330 | | | | 368 |
+| 3 | SCC       | 40  | 15  | | | | 55 |
+| 2 | ToBi      | 40  | 80  | | | | 120 |
 
 
 ## Schedule
