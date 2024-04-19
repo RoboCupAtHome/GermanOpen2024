@@ -28,16 +28,16 @@ Team rankings and total scores from stage 1 and stage 2
 | (current) rank   | Team Name   | Poster | Storing G. | Recept. | Carry L. | GPSR | Serve B. | Total scores (stage 1) |
 | ---------------- | ----------- | ------ | ---------- | ------- | -------- | --- | ----- | ---------------------- |
 |  4 | b-it bots                 | 32     | 0          | 0       |          |     | | 32 |
-| 1 | Nimbro                     | 38     | 330        | 788     | 115      | 0   | 145 | 1416 |
+| 1 | NimbRo                     | 38     | 330        | 788     | 115      | 0   | 145 | 1416 |
 | 3 | SCC                        | 40     | 15         | 0       | 300      |     | 15 | 370 |
-| 2 | ToBi                       | 40     | 80         | 325     | 0        | 0   | 45 | 490 |
+| 2 | ToBI                       | 40     | 80         | 325     | 0        | 0   | 45 | 490 |
 
 | (current) rank   | Team Name   | Stage 1 | E-GPSR | Clean T. | Restaurant | Stickler R. | Total scores (stage 1+2) |
 | ---------------- | ----------- | ------ | ---------- | ------- | -------- | --- | ------------------- |
 |  4 | b-it bots                 | 32     |           |        |          |     | 32 |
-| 1 | Nimbro                     | 1416   | 300        |      |       |    | 1716 |
+| 1 | NimbRo                     | 1416   | 300        |      |       |    | 1716 |
 | 3 | SCC                        | 370    | 0        |        |       |     | 370 |
-| 2 | ToBi                       | 490    | 150        |     |         |    | 640 |
+| 2 | ToBI                       | 490    | 150        |     |         |    | 640 |
 
 ## Schedule
 
@@ -80,9 +80,9 @@ On 17.04.2024
 | Time  | Team Name |
 | ----- | --------- |
 | 13:00 | b-it bots |
-| 13:15 | Nimbro    |
+| 13:15 | NimbRo    |
 | 13:30 | SCC       |
-| 13:45 | Tobi      |
+| 13:45 | ToBI      |
 
 ### Arena Map
 
@@ -108,9 +108,9 @@ On 17.04.2024 18:00 (Robot Inspection)
 | Ordering  | Team Name | Poster |
 | ----- | --------- | --------- |
 | 1 | b-it bots | 32 |
-| 2 | Nimbro    | 38 |
+| 2 | NimbRo    | 38 |
 | 3 | SCC       | 40 |
-| 4 | Tobi      | 40 |
+| 4 | ToBI      | 40 |
 
 ![](maps/map_robot_inspection.png)
 
@@ -124,9 +124,9 @@ On 18.04.2024 10:30
 
 | Ordering  | Team Name | Score |
 | ----- | --------- | ------ |
-| 1 | Nimbro | 330 |
+| 1 | NimbRo | 330 |
 | 2 | SCC    | 15 |
-| 3 | Tobi       | 80 |
+| 3 | ToBI       | 80 |
 | 4 | b-it bots      | 0 |
 
 ![](maps/stage_one/map_storing_groceries.png)
@@ -142,9 +142,9 @@ On 18.04.2024 13:00
 | Ordering  | Team Name | Score (without social performance) |
 | ----- | --------- | ----------------------------------- |
 | 1 | b-it bots | 0 |
-| 2 | Nimbro    | 788 |
+| 2 | NimbRo    | 788 |
 | 3 | SCC       | 0 |
-| 4 | Tobi      | 325 |
+| 4 | ToBI      | 325 |
 
 ![](maps/stage_one/map_receptionist.png)
 
@@ -157,10 +157,10 @@ On 18.04.2024 15:00
 
 | Ordering  | Team Name | Score |
 | ----- | --------- | ---- |
-| 1 | Tobi | 0 |
+| 1 | ToBI | 0 |
 | 2 | SCC    | 300 |
 | 3 | b-it bots  | 0     |
-| 4 | Nimbro      | 115 |
+| 4 | NimbRo      | 115 |
 
 ![](maps/stage_one/map_carry_my_luggage.png)
 
@@ -172,8 +172,8 @@ On 18.04.2024 17:00
 | ----- | --------- | ----------|
 | 1 | SCC | |
 | 2 | b-it bots    | |
-| 3 | Nimbro       | 0 |
-| 4 | Tobi      | 0 |
+| 3 | NimbRo       | 0 |
+| 4 | ToBI      | 0 |
 
 ![](maps/stage_one/map_gpsr.png)
 
@@ -183,8 +183,8 @@ On 19.04.2024 10:30
 
 | Ordering  | Team Name | Score |
 | ----- | --------- | ---------- |
-| 1 | Nimbro | 145 |
-| 2 | Tobi    | 45 |
+| 1 | NimbRo | 145 |
+| 2 | ToBI    | 45 |
 | 3 | SCC       | 15 |
 
 ![](maps/stage_one/map_serve_breakfast.png)
@@ -199,8 +199,8 @@ On 19.04.2024 12:30
 | Ordering  | Team Name | Score |
 | ----- | --------- | -------- |
 | 1 | SCC | 0 |
-| 2 | Nimbro    | 300 |
-| 3 | Tobi      | 150 |
+| 2 | NimbRo    | 300 |
+| 3 | ToBI      | 150 |
 
 ### Clean the Table
 
@@ -208,9 +208,9 @@ On 19.04.2024 14:30
 
 | Ordering  | Team Name |
 | ----- | --------- |
-| 1 | Nimbro |
+| 1 | NimbRo |
 | 2 | SCC    |
-| 3 | Tobi      |
+| 3 | ToBI      |
 
 ![](maps/stage_two/map_clean_the_table.png)
 
@@ -220,8 +220,8 @@ On 19.04.2024 17:00 (we start at the meeting point at 16:30)
 
 | Ordering  | Team Name |
 | ----- | --------- |
-| 1 | Tobi |
-| 2 | Nimbro  |
+| 1 | ToBI |
+| 2 | NimbRo  |
 | 3 | SCC |
 
 ![](maps/stage_two/map_restaurant_meeting_point.png)
@@ -232,8 +232,8 @@ On 20.04.2024 09:30
 
 | Ordering  | Team Name |
 | ----- | --------- |
-| 1 | Tobi |
-| 2 | Nimbro  |
+| 1 | ToBI |
+| 2 | NimbRo  |
 | 3 | SCC |
 
 ![](maps/stage_two/map_stickler_for_the_rules.png)
