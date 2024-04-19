@@ -27,10 +27,10 @@ Team rankings and total scores from stage 1 and stage 2
 
 | (current) rank   | Team Name   | Poster | Storing G. | Recept. | Carry L. | GPSR | Serve B. | Total scores (stage 1) |
 | ---------------- | ----------- | ------ | ---------- | ------- | -------- | --- | ----- | ---------------------- |
-|  4 | b-it bots                 | 32     | 0          | 0       |          | | | 32 |
-| 1 | Nimbro                     | 38     | 330        | 788     | 115      | 0 | | 1271 |
-| 3 | SCC                        | 40     | 15         | 0       | 300      | | | 355 |
-| 2 | ToBi                       | 40     | 80         | 325     | 0        | 0 | | 445 |
+|  4 | b-it bots                 | 32     | 0          | 0       |          |     | | 32 |
+| 1 | Nimbro                     | 38     | 330        | 788     | 115      | 0   | 145 | 1416 |
+| 3 | SCC                        | 40     | 15         | 0       | 300      |     | 15 | 370 |
+| 2 | ToBi                       | 40     | 80         | 325     | 0        | 0   | 45 | 490 |
 
 
 ## Schedule
@@ -175,11 +175,11 @@ On 18.04.2024 17:00
 
 On 19.04.2024 10:30
 
-| Ordering  | Team Name |
-| ----- | --------- |
-| 1 | Nimbro |
-| 2 | Tobi    |
-| 3 | SCC       |
+| Ordering  | Team Name | Score |
+| ----- | --------- | ---------- |
+| 1 | Nimbro | 145 |
+| 2 | Tobi    | 45 |
+| 3 | SCC       | 15 |
 
 ![](maps/stage_one/map_serve_breakfast.png)
 
