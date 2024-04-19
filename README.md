@@ -210,7 +210,7 @@ On 19.04.2024 14:30
 
 ### Restaurant
 
-On 19.04.2024 17:00
+On 19.04.2024 17:00 (we start at the meeting point at 16:30)
 
 | Ordering  | Team Name |
 | ----- | --------- |
