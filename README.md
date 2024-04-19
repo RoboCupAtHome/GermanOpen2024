@@ -35,9 +35,9 @@ Team rankings and total scores from stage 1 and stage 2
 | (current) rank   | Team Name   | Stage 1 | E-GPSR | Clean T. | Restaurant | Stickler R. | Total scores (stage 1+2) |
 | ---------------- | ----------- | ------ | ---------- | ------- | -------- | --- | ------------------- |
 |  4 | b-it bots                 | 32     |           |        |          |     | 32 |
-| 1 | NimbRo                     | 1416   | 300        |   15   |       |    | 1731 |
-| 3 | SCC                        | 370    | 0        |   15     |       |     | 385 |
-| 2 | ToBI                       | 490    | 150        |  55   |         |    | 695|
+| 1 | NimbRo                     | 1416   | 300        |   15   |   700    |    | 2431 |
+| 3 | SCC                        | 370    | 0        |   15     |    0   |     | 385 |
+| 2 | ToBI                       | 490    | 150        |  55   |   1050      |    | 1745|
 
 ## Schedule
 
@@ -218,11 +218,11 @@ On 19.04.2024 14:30
 
 On 19.04.2024 17:00 (we start at the meeting point at 16:30)
 
-| Ordering  | Team Name |
-| ----- | --------- |
-| 1 | ToBI |
-| 2 | NimbRo  |
-| 3 | SCC |
+| Ordering  | Team Name | Score |
+| ----- | --------- | -------- |
+| 1 | ToBI | 1050 |
+| 2 | NimbRo  | 700 |
+| 3 | SCC | 0 |
 
 ![](maps/stage_two/map_restaurant_meeting_point.png)
 
