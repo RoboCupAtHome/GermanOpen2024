@@ -39,10 +39,10 @@ Team rankings and total scores from stage 1 and stage 2
 | 3 | SCC                        | 370    | 0        |   15     |    0   |  300   | 685 |
 | 2 | ToBI                       | 490    | 150        |  55   |   1050      | 700   | 2445|
 
-| rank | Team Name | Final |
-| ---- | --------- | ----- |
-| 1    | NimbRo    | 86,46 |
-| 2    | ToBI      | 62,74 |
+| rank | Team Name | Final | Stage 1+2 (50%) | Internal Jury | External Jury |
+| ---- | --------- | ----- | --------------- | ------------- | ------------- |
+| 1    | NimbRo    | 86,46 | 50	             | 16.25	     | 20.21 |
+| 2    | ToBI      | 62,74 | 36.70           | 11.87        | 14.17 |
 
 ## Schedule
 
