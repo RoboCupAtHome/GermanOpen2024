@@ -39,6 +39,11 @@ Team rankings and total scores from stage 1 and stage 2
 | 3 | SCC                        | 370    | 0        |   15     |    0   |  300   | 685 |
 | 2 | ToBI                       | 490    | 150        |  55   |   1050      | 700   | 2445|
 
+| rank | Team Name | Final |
+| ---- | --------- | ----- |
+| 1    | NimbRo    | 86,46 |
+| 2    | ToBI      | 62,74 |
+
 ## Schedule
 
 |       | Wed April 17              | Thu April 18        | Fri April 19        | Sat April 20           | 
